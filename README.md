@@ -53,3 +53,14 @@ Le PR sono benvenute! Ogni card deve avere:
 Questo lavoro è rilasciato nel **Pubblico Dominio** con licenza [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Puoi copiare, modificare, distribuire e utilizzare il materiale per qualsiasi scopo, anche commerciale, senza chiedere permesso.
+
+
+## TODO
+
+- BCM
+- Resistenza
+- percentile e 50° percentile (mediana)
+- Idratazione tissutale
+- Indice nutrizionale (CHI)
+- BMI
+- Angolo di Fase
