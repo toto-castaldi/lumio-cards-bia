@@ -57,53 +57,65 @@ Puoi copiare, modificare, distribuire e utilizzare il materiale per qualsiasi sc
 
 ## Gloassario
 
-Peso obiettivo
+*Peso obiettivo*
+
 Questo valore esprime il peso desiderabile che viene calcolato dall'indice di massa corporea obiettivo, impostato dal professionista nella configurazione del software secondo la
 formula Peterson CM, et al. Am J Clin Nutr. 2016 May;103(5):1197-203.
 
-Angolo di Fase (PhA)
+*Angolo di Fase (PhA)*
+
 L'angolo di fase esprime la proporzione tra gli spazi intra ed extracellulari, descrive proprietà sulla qualità della cellula e viene utilizzato in clinica come indice prognostico per le
 patologie croniche. In un soggetto adulto sano il valore normale di angolo di fase è compreso tra valori di 5 e 7 gradi.
 
-Acqua Totale (TBW)
+*Acqua Totale (TBW)*
+
 Rappresenta il principale componente del nostro organismo: è il compartimento che rappresenta i fluidi corporei totali presenti nel corpo. È espressa come percentuale rispetto al
 peso corporeo; questo compartimento tende a diminuire con l’età, a causa della perdita fisiologica di FFM.
 
-Acqua Extracellulare (ECW)
+*Acqua Extracellulare (ECW)*
+
 L' Acqua Extra Cellulare (ECW) è composta dai fluidi all' esterno delle cellule. È localizzata principalmente nello spazio interstiziale fra le cellule, all' interno dei vasi sanguigni, nei
 tessuti linfatici e nel liquido spinale.
 
-Acqua Intra Cellulare (ICW)
+*Acqua Intra Cellulare (ICW)*
+
 L'acqua intracellulare (ICW) viene calcolata come TBW-ECW. Rappresenta i fluidi ricchi di potassio all'interno delle cellule . Il suo volume è compreso tra il 55-70% della acqua totale
 in funzione dello stato di nutrizione.
 
-Massa Magra (FFM)
+*Massa Magra (FFM)*
+
 La Massa Magra è il compartimento contenente tutto ciò che non è grasso corporeo: comprende lo scheletro, circa il 73% dei fluidi corporei, muscoli, pelle ed organi. Una buona
 forma fisica presuppone un valore di FFM compresa tra il 77-85% rispetto al peso corporeo, in funzione dall' età del soggetto.
 
-Massa Grassa (FM)
+*Massa Grassa (FM)*
+
 La Massa Grassa (FM) è un composto costituito dal glicerolo, una sostanza formata dagli acidi grassi, che è utilizzata come concentrato di energia per i muscoli. Una certa quantità
 di grasso è quindi necessaria sia come riserva energetica sia per il corretto svolgimento dei processi vitali. Un'altra piccola quantità, denominata grasso essenziale, ha una funzione
 di protezione degli organi interni, ma è importante che questo accumulo non oltrepassi i limiti fisiologici. Una buona forma fisica presuppone un valore di FM del 15-23% rispetto al
 peso corporeo dipendendo dell' età del soggetto.
 
-Massa Cellulare Corporea (BCM)
+*Massa Cellulare Corporea (BCM)*
+
 È la parte metabolicamente attiva dell'organismo che espleta tutto il lavoro funzionale, e il 'motore' del corpo in cui avvengono tutti i principali processi metabolici: dal consumo di
 ossigeno, l'ossidazione del glucosio, alla sintesi delle proteine. È la parte viva ed attiva dell'organismo, un compartimento di cui il corpo umano dovrebbe essere dotato in
 abbondanza.
 
-Massa Muscolo-Scheletrica (SMM) Janssen
+*Massa Muscolo-Scheletrica (SMM) Janssen*
+
 La Massa Muscolare Scheletrica rappresenta circa il 70% della massa muscolare totale (MM). La SMM correla con la funzionalità fisica e con lo stato di salute del soggetto.
 
-Massa Muscolare Appendicolare (ASMM)
+*Massa Muscolare Appendicolare (ASMM)*
+
 La Massa Muscolare Scheletrica Appendicolare rappresenta il 75% della Massa Muscolare Scheletrica (SMM) ed è definita come la somma dei muscoli degli arti superiori ed
 inferiori. Una riduzione dell'ASMM porta a conseguenze negative sulla salute come debolezza, disabilità, un peggioramento della qualità della vita.
 
-Metabolismo Basale (BMR)
+*Metabolismo Basale (BMR)*
+
 Il metabolismo basale (BMR), dall'inglese Basal Metabolic Rate, è il dispendio energetico di un organismo a riposo. Il BMR comprende l'energia necessaria per le funzioni
 metaboliche vitali (respirazione, circolazione sanguigna, digestione, attività del sistema nervoso, ecc.).
 
-Dispendio Energetico Giornaliero Totale (TDEE)
+*Dispendio Energetico Giornaliero Totale (TDEE)*
+
 È l'acronimo di Total Daily Energy Expenditure (dispendio energetico giornaliero totale). È quindi la somma del metabolismo basale (BMR) e dell'attività fisica muscolare (PAL) ,
 assumendo come marginale il dispendio della termoregolazione e termogenesi.
 
@@ -126,7 +138,6 @@ assumendo come marginale il dispendio della termoregolazione e termogenesi.
 - Massa Cellulare (BCM)
 - Massa Muscolo-Scheletrica (SMM) Janssen
 - Massa Muscolare Appendicolare (ASMM)
-- Metabolismo Basale (BMR)
 - Dispendio Energetico Giornaliero Totale (TDEE)
 - Indice di Massa Cellulare (BCMI)
 - Indice di Massa Grassa (FMI)

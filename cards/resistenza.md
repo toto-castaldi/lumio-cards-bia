@@ -19,11 +19,11 @@ La resistenza è inversamente proporzionale alla quantità di fluidi corporei:
 
 ## Relazione con i Tessuti
 
-| Tessuto       | Resistenza | Motivo                                  |
-|---------------|------------|----------------------------------------|
-| Massa magra   | Bassa      | Contiene ~73% di acqua ed elettroliti  |
-| Massa grassa  | Alta       | Contiene solo 5-10% di acqua           |
-| Osso          | Alta       | Pessimo conduttore                     |
+| Tessuto     | Resistenza | Motivo                                |
+|-------------|------------|---------------------------------------|
+| Massa magra | Bassa      | Contiene ~73% di acqua ed elettroliti |
+| Massa grassa| Alta       | Contiene solo 5-10% di acqua          |
+| Osso        | Alta       | Pessimo conduttore                    |
 
 ## Come Interpretare la Resistenza
 
