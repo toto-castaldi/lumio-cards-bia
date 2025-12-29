@@ -122,7 +122,6 @@ assumendo come marginale il dispendio della termoregolazione e termogenesi.
 ## TODO
 
 - biagram
-- basale
 - percentile e 50° percentile (mediana)
 - hydagram
 - nutrigram
