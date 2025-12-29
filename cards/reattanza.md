@@ -24,7 +24,7 @@ Le membrane cellulari funzionano come condensatori: accumulano e sfasano la corr
 
 La reattanza è una componente dell'impedenza totale (Z):
 
-```
+```text
 Z = √(R² + Xc²)
 ```
 
@@ -36,10 +36,10 @@ Dove:
 
 ## Come Interpretare la Reattanza
 
-| Reattanza | Significato |
-|-----------|-------------|
-| **Alta** | Buona massa cellulare, membrane integre |
-| **Bassa** | Scarsa massa cellulare, possibile deperimento |
+| Reattanza  | Significato                                   |
+|------------|-----------------------------------------------|
+| **Alta**   | Buona massa cellulare, membrane integre       |
+| **Bassa**  | Scarsa massa cellulare, possibile deperimento |
 
 ## Relazione con l'Angolo di Fase
 
