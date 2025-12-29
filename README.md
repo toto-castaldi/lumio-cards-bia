@@ -121,17 +121,16 @@ assumendo come marginale il dispendio della termoregolazione e termogenesi.
 
 ## TODO
 
-- biagram
 - percentile e 50° percentile (mediana)
+- biagram
 - hydagram
 - nutrigram
-- BMI
-- Angolo di Fase
 - Acqua Totale (TBW)
 - Acqua Extra Cellulare (ECW)
 - Acqua Intra Cellulare (ICW)
 - Massa Magra (FFM)
 - Massa Grassa (FM)
+- Angolo di Fase
 - Idratazione tissutale
 - Indice nutrizionale (CHI)
 - Massa Cellulare (BCM)
