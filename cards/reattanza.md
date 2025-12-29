@@ -3,8 +3,6 @@ title: "Reattanza (Xc)"
 tags:
   - bia
   - reattanza
-  - parametri
-  - fondamentali
   - massa-cellulare
 difficulty: 2
 language: it

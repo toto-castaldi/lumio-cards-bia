@@ -5,7 +5,6 @@ tags:
   - composizione-corporea
   - idratazione
   - massa-cellulare
-  - fondamentali
   - bia
 difficulty: 2
 language: it

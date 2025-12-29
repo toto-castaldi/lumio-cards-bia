@@ -58,7 +58,6 @@ Puoi copiare, modificare, distribuire e utilizzare il materiale per qualsiasi sc
 ## TODO
 
 - BCM
-- Resistenza
 - percentile e 50° percentile (mediana)
 - Idratazione tissutale
 - Indice nutrizionale (CHI)
