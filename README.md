@@ -80,7 +80,6 @@ Aiutami a creare una nuova card sull'argomento XYX.
 - Indice di Massa Muscolare Scheletrica (SMI)
 - Indice di Massa Muscolare Appendicolare (ASMMI)
 - Angolo di Fase standardizzato (SPhA)
-- Amenorrea (nelle donne)
 - Stato anabolico
 - Stato catabolico
 - Creatinina urinaria
