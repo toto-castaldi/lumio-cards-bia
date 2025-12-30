@@ -66,7 +66,6 @@ Aiutami a creare una nuova card sull'argomento XYX.
 
 ## TODO
 
-- biagram
 - hydagram
 - nutrigram
 - Acqua Totale (TBW)
