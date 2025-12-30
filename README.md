@@ -66,7 +66,6 @@ Aiutami a creare una nuova card sull'argomento XYX.
 
 ## TODO
 
-- nutrigram
 - Acqua Totale (TBW)
 - Acqua Extra Cellulare (ECW)
 - Acqua Intra Cellulare (ICW)
@@ -86,3 +85,4 @@ Aiutami a creare una nuova card sull'argomento XYX.
 - Amenorrea (nelle donne)
 - Stato anabolico
 - Stato catabolico
+- Creatinina urinaria
