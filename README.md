@@ -127,7 +127,6 @@ assumendo come marginale il dispendio della termoregolazione e termogenesi.
 - Acqua Totale (TBW)
 - Acqua Extra Cellulare (ECW)
 - Acqua Intra Cellulare (ICW)
-- Massa Magra (FFM)
 - Massa Grassa (FM)
 - Angolo di Fase
 - Idratazione tissutale
