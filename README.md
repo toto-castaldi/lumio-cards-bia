@@ -66,7 +66,6 @@ Aiutami a creare una nuova card sull'argomento XYX.
 
 ## TODO
 
-- hydagram
 - nutrigram
 - Acqua Totale (TBW)
 - Acqua Extra Cellulare (ECW)

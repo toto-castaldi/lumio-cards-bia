@@ -4,7 +4,6 @@ tags:
   - bia
   - composizione-corporea
   - idratazione
-  - grafico
 difficulty: 3
 language: it
 ---
