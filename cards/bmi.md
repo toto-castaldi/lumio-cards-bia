@@ -72,3 +72,7 @@ Ma va **sempre integrato** con la valutazione della composizione corporea (BIA) 
 ## Come Spiegarlo al Cliente
 
 > "Il BMI ci dà un'indicazione di massima, ma non ci dice se il tuo peso è fatto di muscoli o grasso. Per questo usiamo la BIA: due persone con lo stesso BMI possono avere situazioni completamente diverse."
+
+---
+
+**Fonti**: [ISS - Definizione Obesità e Sovrappeso](https://www.iss.it/en/prodotti-per-il-controllo-del-peso/-/asset_publisher/S27m3JVjGST7/content/definizione-di-obesit%C3%A0-e-sovrappeso%C2%A0), [Epicentro ISS - Obesità](https://www.epicentro.iss.it/obesita/), [Wikipedia - Indice di Massa Corporea](https://it.wikipedia.org/wiki/Indice_di_massa_corporea)

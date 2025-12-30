@@ -59,3 +59,7 @@ Dalla resistenza si stima l'acqua corporea totale, suddivisa in:
 - **ECW (Extracellulare)**: acqua fuori dalle cellule (plasma, interstizio)
 
 Un adulto sano ha circa il **60% del peso corporeo** in acqua.
+
+---
+
+**Fonti**: [Istituto ATS - Impedenza Bioelettrica](https://www.istitutoats.com/articoli/limpedenza-bioelettrica-bia-tradizionale-e-vettoriale-biva), [My Personal Trainer - Valori BIA](https://www.my-personaltrainer.it/alimentazione/valori-BIA.html), [Akern](https://www.akern.com)

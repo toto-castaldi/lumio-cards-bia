@@ -60,3 +60,7 @@ Le ellissi del Weight Control (pubblicate nel 2023) sono calibrate specificament
 - Benessere generale
 
 Questo lo rende più accurato rispetto al Biavector classico per monitorare i cambiamenti durante percorsi di gestione del peso.
+
+---
+
+**Fonti**: [Akern - BIA Vectorial Analysis](https://www.akern.com/en/newsroom/bia-vectorial-analysis-new-population-references-published-after-30-years/), [Akern - BIA 101 BIVA PRO](https://www.akern.com/en/products-and-solutions/biompedence-analyzers/new-bia-101-biva-pro/), [Akern - Our History](https://www.akern.com/en/about-us/our-history/)

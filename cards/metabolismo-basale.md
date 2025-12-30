@@ -83,3 +83,7 @@ Conoscere il BMR permette di:
 - Evitare diete troppo restrittive che rallentano il metabolismo
 - Monitorare l'efficacia di programmi di allenamento
 - Personalizzare i piani nutrizionali
+
+---
+
+**Fonti**: [Nutrium - Equazione Mifflin-St Jeor](https://nutrium.com/blog/it/equazione-di-mifflin-st-jeor-per-i-professionisti-della-nutrizione/), [Nutricity - Harris Benedict](https://www.nutricity.io/tools/bmr-harris-benedict), [Wikipedia - Basal Metabolic Rate](https://en.wikipedia.org/wiki/Basal_metabolic_rate)

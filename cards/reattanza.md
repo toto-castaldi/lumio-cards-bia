@@ -54,3 +54,7 @@ La reattanza è un indicatore diretto della "qualità" corporea:
 - Rileva precocemente la perdita di massa cellulare
 - Utile nel monitoraggio di diete e allenamenti
 - Indicatore prognostico in ambito clinico
+
+---
+
+**Fonti**: [Istituto ATS - Impedenza Bioelettrica](https://www.istitutoats.com/articoli/limpedenza-bioelettrica-bia-tradizionale-e-vettoriale-biva), [My Personal Trainer - Valori BIA](https://www.my-personaltrainer.it/alimentazione/valori-BIA.html), [Akern](https://www.akern.com)

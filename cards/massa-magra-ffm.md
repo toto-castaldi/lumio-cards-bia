@@ -69,3 +69,7 @@ La FFM determina:
 ## In due parole
 
 > "La massa magra è tutto ciò che nel tuo corpo non è grasso: muscoli, ossa, organi, acqua. È la parte 'attiva' che brucia calorie anche a riposo. Più massa magra hai, più il tuo metabolismo è efficiente. L'obiettivo non è solo perdere peso, ma preservare e aumentare questa componente."
+
+---
+
+**Fonti**: [Project inVictus - Massa Magra](https://www.projectinvictus.it/massa-magra/), [Wikipedia - Massa Magra](https://it.wikipedia.org/wiki/Massa_magra), [Metadieta - Composizione Corporea](https://www.metadieta.it/blog/analisi-della-composizione-corporea-quali-sono-i-suoi-parametri-misurabili-e-come-la-rilevazione-puo-influire-sul-trattamento-nutrizionale/)

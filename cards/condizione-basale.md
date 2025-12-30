@@ -52,3 +52,7 @@ Quando comunichi con il cliente:
 > "Faremo sempre le misurazioni nelle stesse condizioni: al mattino, a digiuno, prima di fare attività. Così i numeri che vediamo oggi saranno confrontabili con quelli del prossimo mese."
 
 Questo aiuta il cliente a capire perché le condizioni di misurazione sono importanti.
+
+---
+
+**Fonti**: Nozioni di metodologia della misurazione clinica. Le condizioni basali per la BIA sono descritte nei manuali Akern e nei protocolli standard di bioimpedenziometria.

@@ -64,3 +64,7 @@ I percentili permettono di:
 ## Come Spiegarlo : esempio
 
 > "Il percentile ci dice come ti posizioni rispetto ad altre persone della tua età e sesso. Se la tua massa muscolare è al 75° percentile, significa che hai più muscoli del 75% delle persone come te. Il 50° percentile è la mediana, cioè il valore 'tipico' della popolazione."
+
+---
+
+**Fonti**: Nozioni di statistica descrittiva. L'uso dei percentili nella BIA è basato sulle ellissi di tolleranza pubblicate da Akern e sui riferimenti della popolazione italiana ed europea.
