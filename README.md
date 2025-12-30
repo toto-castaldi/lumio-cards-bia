@@ -127,7 +127,6 @@ assumendo come marginale il dispendio della termoregolazione e termogenesi.
 - Acqua Totale (TBW)
 - Acqua Extra Cellulare (ECW)
 - Acqua Intra Cellulare (ICW)
-- Massa Grassa (FM)
 - Angolo di Fase
 - Idratazione tissutale
 - Indice nutrizionale (CHI)
@@ -141,3 +140,6 @@ assumendo come marginale il dispendio della termoregolazione e termogenesi.
 - Indice di Massa Muscolare Scheletrica (SMI)
 - Indice di Massa Muscolare Appendicolare (ASMMI)
 - Angolo di Fase standardizzato (SPhA)
+- Diabete tipo 2
+- Sindrome metabolica
+- Amenorrea (nelle donne)
