@@ -133,7 +133,6 @@ assumendo come marginale il dispendio della termoregolazione e termogenesi.
 - Massa Cellulare (BCM)
 - Massa Muscolo-Scheletrica (SMM) Janssen
 - Massa Muscolare Appendicolare (ASMM)
-- Dispendio Energetico Giornaliero Totale (TDEE)
 - Indice di Massa Cellulare (BCMI)
 - Indice di Massa Grassa (FMI)
 - Indice di Massa Magra (FFMI)
