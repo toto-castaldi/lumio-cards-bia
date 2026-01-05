@@ -68,7 +68,6 @@ Aiutami a creare una nuova card sull'argomento XYX.
 
 - Acqua Extra Cellulare (ECW)
 - Acqua Intra Cellulare (ICW)
-- Indice nutrizionale (CHI)
 - Massa Muscolo-Scheletrica (SMM) Janssen
 - Massa Muscolare Appendicolare (ASMM)
 - Indice di Massa Cellulare (BCMI)
