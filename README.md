@@ -71,7 +71,6 @@ Aiutami a creare una nuova card sull'argomento XYX.
 - Acqua Intra Cellulare (ICW)
 - Idratazione tissutale
 - Indice nutrizionale (CHI)
-- Massa Cellulare (BCM)
 - Massa Muscolo-Scheletrica (SMM) Janssen
 - Massa Muscolare Appendicolare (ASMM)
 - Indice di Massa Cellulare (BCMI)
@@ -80,4 +79,3 @@ Aiutami a creare una nuova card sull'argomento XYX.
 - Indice di Massa Muscolare Scheletrica (SMI)
 - Indice di Massa Muscolare Appendicolare (ASMMI)
 - Angolo di Fase standardizzato (SPhA)
-- Creatinina urinaria
