@@ -42,7 +42,7 @@ Questo deck di flashcard per [Lumio](https://github.com/toto-castaldi/lumio) ti 
 
 Le PR sono benvenute! Ogni card deve avere:
 
-- `title` e almeno un `tag` (vedi [CARD-FORMAT-SPEC](https://github.com/toto-castaldi/lumio/blob/v0.1.1/docs/CARD-FORMAT-SPEC.md))
+- `title` e almeno un `tag` (vedi [CARD-FORMAT-SPEC](https://github.com/toto-castaldi/lumio/blob/v0.7.1/docs/CARD-FORMAT-SPEC.md))
 - Contenuto chiaro e verificato
 - Immagini in `/assets/` con percorsi relativi
 
@@ -60,7 +60,7 @@ Tutte le informazioni che trovi in queste carte, anche quelle su brevetti, sono 
 ## AI 
 
 ```
-leggi READNE.md e CARD-FORMAT-SPEC.md da sito Lumio. Mi aiuterai a creare o modificare carte. Usa solo quello che sai o ricerche WEB. Metti i riferimenti in fondo alla card. Se non usi fonti nel creare una carta dillo sempre nei riferimenti in fondo.
+leggi READNE.md e CARD-FORMAT-SPEC.md da GitHub Lumio. Mi aiuterai a creare o modificare carte. Usa solo quello che sai o ricerche WEB. Metti i riferimenti in fondo alla card. Se non usi fonti nel creare una carta dillo sempre nei riferimenti in fondo.
 Aiutami a creare una nuova card sull'argomento XYX.
 ```
 
@@ -80,6 +80,5 @@ Aiutami a creare una nuova card sull'argomento XYX.
 - Indice di Massa Muscolare Scheletrica (SMI)
 - Indice di Massa Muscolare Appendicolare (ASMMI)
 - Angolo di Fase standardizzato (SPhA)
-- Stato anabolico
 - Stato catabolico
 - Creatinina urinaria
