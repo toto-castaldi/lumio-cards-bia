@@ -66,10 +66,8 @@ Aiutami a creare una nuova card sull'argomento XYX.
 
 ## TODO
 
-- Acqua Totale (TBW)
 - Acqua Extra Cellulare (ECW)
 - Acqua Intra Cellulare (ICW)
-- Idratazione tissutale
 - Indice nutrizionale (CHI)
 - Massa Muscolo-Scheletrica (SMM) Janssen
 - Massa Muscolare Appendicolare (ASMM)
