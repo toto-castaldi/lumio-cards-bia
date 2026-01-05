@@ -64,15 +64,3 @@ leggi READNE.md e CARD-FORMAT-SPEC.md da GitHub Lumio. Mi aiuterai a creare o mo
 Aiutami a creare una nuova card sull'argomento XYX.
 ```
 
-## TODO
-
-- Acqua Extra Cellulare (ECW)
-- Acqua Intra Cellulare (ICW)
-- Massa Muscolo-Scheletrica (SMM) Janssen
-- Massa Muscolare Appendicolare (ASMM)
-- Indice di Massa Cellulare (BCMI)
-- Indice di Massa Grassa (FMI)
-- Indice di Massa Magra (FFMI)
-- Indice di Massa Muscolare Scheletrica (SMI)
-- Indice di Massa Muscolare Appendicolare (ASMMI)
-- Angolo di Fase standardizzato (SPhA)
