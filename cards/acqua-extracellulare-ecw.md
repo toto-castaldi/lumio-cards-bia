@@ -10,7 +10,7 @@ language: it
 ---
 
 L'**Acqua Extra Cellulare** (ECW - Extracellular Water) è la quota di acqua corporea che si trova **al di fuori delle cellule**, negli spazi interstiziali, nel plasma e nella linfa.
-Test 06
+Test 07
 
 ## Distribuzione dell'ECW
 
